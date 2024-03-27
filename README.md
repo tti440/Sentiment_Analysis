@@ -6,6 +6,7 @@ The dataset is from [kaggle](https://www.kaggle.com/datasets/jp797498e/twitter-e
 Here is the trained [BERT model](https://huggingface.co/tti440/BERT_Sentiment_Twitter)
 
 Contributor:
+
 Lune, E. (Evelina) <e.lune@student.vu.nl>
 
 Moise, I.V. (Ionut) <i.moise@student.vu.nl>
